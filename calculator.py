@@ -9,4 +9,7 @@ def multiply(a, b):
   return a*b #최신커밋 수정하기 테스트
 
 def divide_free(a, b):
-    return a/b
+  return a/b
+
+def square(a):
+  return a*a
